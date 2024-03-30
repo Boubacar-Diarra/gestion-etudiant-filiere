@@ -1,9 +1,11 @@
-# gestion-etudiant-python
-Ce repos est celui d'une application desktop pour la gestion des inscriptions des étudiants de l’INSEA. l’objectif de se projet était de se familiariser avec le langage python. <br/>
-L’application a été développée avec la lib Tkinter et la base de données MySQL. <br/>
-démo ==> [ici](https://drive.google.com/file/d/18z3g-G9hkahgtANUGG_7dnTI03bbnOeN/view?usp=sharing)
-<br/>
+Ce dépot contient une application de bureau pour la gestion des inscriptions des étudiants de l'INSEA. L'objectif de ce projet était de se familiariser avec le langage Python.
 
-#### pour exécuter
+L'application a été développée avec la bibliothèque Tkinter et utilise une base de données MySQL.
 
-`$ python run.py`
+#### Démo
+Une démonstration de l'application est disponible [ici](https://drive.google.com/file/d/18z3g-G9hkahgtANUGG_7dnTI03bbnOeN/view?usp=sharing).
+
+#### Pour exécuter
+```
+$ python run.py
+```
